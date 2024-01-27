@@ -1,0 +1,7 @@
+.form__inputFields > input::placeholder {
+  color: #b7b7b7;
+  font-weight: 600;
+}
+.form__inputFields {
+  height: 40px;
+}

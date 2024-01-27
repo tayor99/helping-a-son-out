@@ -1,0 +1,157 @@
+body {
+  margin: 0;
+  font-family: "Outfit", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #fff;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.text-black {
+  color: #000;
+}
+.text-black-light {
+  color: #2b2b2b;
+}
+.text-grey {
+  color: #b7b7b7;
+}
+.text-white {
+  color: #fafafa;
+}
+.text-light-purple {
+  color: #5818a6;
+}
+.text-dark {
+  color: #4c4949;
+}
+.bg-light-purple {
+  background-color: #7e57c2;
+}
+.bg-lighter-purple {
+  background-color: #5818a6;
+}
+.bg-grey {
+  background-color: #f4f4f4;
+}
+.align-auto {
+  margin: 0 auto;
+}
+.align-auto-10 {
+  margin: 10px auto;
+}
+.d-flex {
+  display: flex;
+}
+.justify-center {
+  justify-content: center;
+}
+.justify-evenly {
+  justify-content: space-evenly;
+}
+.jusify-between {
+  justify-content: space-between;
+}
+.align-center {
+  align-items: center;
+}
+.text-center {
+  text-align: center;
+}
+.w-100 {
+  width: 100%;
+}
+.w-90 {
+  width: 90%;
+}
+.w-80 {
+  width: 80%;
+}
+.w-70 {
+  width: 70%;
+}
+.w-60 {
+  width: 60%;
+}
+.w-50 {
+  width: 50%;
+}
+.w-40 {
+  width: 40%;
+}
+.w-30 {
+  width: 30%;
+}
+.w-20 {
+  width: 20%;
+}
+.w-10 {
+  width: 10%;
+}
+.mt-5 {
+  margin-top: 5px;
+}
+.mt-10 {
+  margin-top: 10px;
+}
+.mt-15 {
+  margin-top: 15px;
+}
+.mt-20 {
+  margin-top: 20px;
+}
+.mt-25 {
+  margin-top: 25px;
+}
+.mt-30 {
+  margin-top: 30px;
+}
+.mt-40 {
+  margin-top: 40px;
+}
+.m-auto {
+  margin: 0 auto;
+}
+.p-10 {
+  padding: 10px;
+}
+
+.font-family-1 {
+  font-family: "Outfit", sans-serif;
+}
+.font-400 {
+  font-weight: 400;
+}
+.font-500 {
+  font-weight: 500;
+}
+.font-600 {
+  font-weight: 600;
+}
+.font-700 {
+  font-weight: 700;
+}
+.rm-input-styles {
+  border: none;
+  outline: none;
+}
+.block {
+  display: block;
+}
+.border-radius-10 {
+  border-radius: 10px;
+}
+.pointer {
+  cursor: pointer;
+}
+.underline {
+  text-decoration: underline;
+}
